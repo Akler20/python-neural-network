@@ -8,3 +8,11 @@ Educational implementation of a neural network from scratch in Python
 - Dropout regularization
 - Custom training loop
 - NumPy-based implementation
+## Technologies
+- Python
+- NumPy
+
+## Learning Goals
+- Understand how neural networks learn
+- Implement optimization algorithms from first principles
+- Explore weight updates and gradient computation
